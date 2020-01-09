@@ -5,7 +5,7 @@ name: Computerome
 service_provider_name: DeIC
 category: HPC
 type: Service
-status: Active
+status: Archived
 support_email: hpc@bio.dtu.dk
 access_email: None
 start: 2019-01-01

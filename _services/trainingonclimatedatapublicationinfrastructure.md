@@ -5,7 +5,7 @@ name: Training on climate data publication infrastructure
 service_provider_name: Nordic Infrastructure Collaboration on Earth System Tools
 category: Trainings
 type: Service
-status: Active
+status: Draft
 support_email: Not available
 access_email: None
 start: 2019-01-01
